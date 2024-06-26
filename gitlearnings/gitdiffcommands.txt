@@ -1,3 +1,0 @@
-git diff ----> shows diff between working copy and staging area
-git diff --staged -------> showsdiff b/w staging area to local repo
-git diff head -----> diff b/w local repo to working copy
